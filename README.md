@@ -1,1 +1,1 @@
-# copilot-code-review-plugin-dist
+# Copilot code review plugin
